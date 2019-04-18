@@ -1,4 +1,4 @@
-package com.think;
+package com.think.unit1;
 
 public class Person {
 	private String firstName;
